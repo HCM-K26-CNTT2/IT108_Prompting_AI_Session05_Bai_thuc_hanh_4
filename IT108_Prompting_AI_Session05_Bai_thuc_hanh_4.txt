@@ -4,29 +4,14 @@ Một giảng viên cung cấp kết quả kiểm tra của 5 sinh viên trong 3
 
 
 Sinh viên
-	Tuần 1
-	Tuần 2
-	Tuần 3
-	          An
-	           8
-	    7
-	    5
-	         Bình
-	           7
-	    6
-	    4
-	         Chi
-	           9
-	    8
-	    8 
-	         Dũng
-	           6
-	    5
-	    3
-	         Hà
-	           8
-	    8
-	    7
+Tuần 1
+Tuần 2
+Tuần 3
+An: 8, 7, 5
+Bình: 7, 6, 4
+Chi: 9, 8, 8 
+Dũng: 6, 5, 3
+Hà: 8, 8, 7
 	
 
 2. Yêu cầu nghiệp vụ
@@ -63,30 +48,14 @@ Bạn hãy lọc những thông tin sau và làm dưới dạng JSON:
 
 
 Sinh viên
-	Tuần 1
-	Tuần 2
-	Tuần 3
-	          An
-	           8
-	    7
-	    5
-	         Bình
-	           7
-	    6
-	    4
-	         Chi
-	           9
-	    8
-	    8 
-	         Dũng
-	           6
-	    5
-	    3
-	         Hà
-	           8
-	    8
-	    7
-	
+Tuần 1
+Tuần 2
+Tuần 3
+An: 8, 7, 5
+Bình: 7, 6, 4
+Chi: 9, 8, 8 
+Dũng: 6, 5, 3
+Hà: 8, 8, 7
 
 Dạng JSON:
 {“Tên”:”...”, “Điểm trong 3 tuần qua”: “...”}
